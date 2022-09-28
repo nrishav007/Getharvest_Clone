@@ -1,0 +1,22 @@
+.App-logo{
+    width: 170px;
+    height: 60px;
+}
+.navdta{
+    font-size: 17px;
+    font-weight: 500;
+}
+.navdta:hover{
+    color: rgba(250,93,0,100%);
+    cursor: pointer;
+}
+#reg{
+    background-color: rgba(250,93,0,100%);
+    color: white;
+    border-radius:16px;
+    border: none;
+    padding: 10px 15px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 160px;
+}

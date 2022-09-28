@@ -1,3 +1,5 @@
 git add .
 git commit -m"files added"
-git push
+echo "which branch"
+read brch
+git push origin $brch
