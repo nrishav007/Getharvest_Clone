@@ -1,4 +1,4 @@
-import {   Button, Center, Divider, Flex, Stack, Text } from '@chakra-ui/react';
+import {    Center, Divider, Flex, Stack, Text } from '@chakra-ui/react';
 import logo from './logo.svg';
 import { Nav } from './Nav';
 import "./Navbar.css"
@@ -20,9 +20,9 @@ const Navbar = () => {
                     <Text marginLeft='70px' w='55px' marginRight='-15px'>Sign in</Text>
                 </Center>
                 <Center  padding='20px' >
-                    <Button w='160px' id='reg'>
+                    <button id='reg'>
                         Try Harvest Free
-                    </Button>
+                    </button>
                 </Center>
 
         </Stack>
