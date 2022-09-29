@@ -1,0 +1,29 @@
+#foter{
+    background-color: rgba(29,30,28,1.0);
+    height: 500px;
+}
+#lgo{
+    width: 400px;
+    height: 300px;
+    padding: 30px;
+}
+#lgo>img{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.txt{
+    color: white;
+    font-size: 19px;
+    font-weight: 600;
+}
+#fot{
+    display: block;
+    color: rgba(255,248,241,60%);
+    border: 1px solid rgba(255,248,241,10%);
+    border-radius:16px;
+    padding: 10px 15px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 40px;
+    width: 89%;
+}
