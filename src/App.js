@@ -1,12 +1,18 @@
-
 import './App.css';
-import { Home } from './Components/Pages/Home/Home';
-// import { Navbar } from './Components/Pages/Navbar/Navbar';
+// import { Footer } from './Components/Pages/Footer/Footer';
+import { Navbar } from './Components/Pages/Navbar/Navbar';
+import { AllRoutes } from './Components/Router/AllRoutes';
+// import { Home } from './Components/Pages/Home/Home';
+
+
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      <Navbar />
+            <AllRoutes />
+            
+      
     </div>
   );
 }
