@@ -1,13 +1,13 @@
 import { Footer } from "../Footer/Footer"
-import { Navbar } from "../Navbar/Navbar"
-
 
 const Home = () => {
+
     return (
         <>
-        <Navbar />
-    <Footer/>
+            <h1>guug</h1>
+            <Footer />
         </>
+
     )
 }
 export { Home }
